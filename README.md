@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-Joy
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Django,Node.js
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail me: abhijeetjoy123@gmail.com
 
